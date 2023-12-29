@@ -1,2 +1,2 @@
 Training for reproducing a product card from frontend mentor. 
-Trying out variables and reposponsiveness.
+Trying out variables and responsiveness.
